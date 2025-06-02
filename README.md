@@ -6,10 +6,10 @@ My machine learning and deep learning coursework at UC Berkeley
 | File | Topic |
 |------|-------|
 | `PS3.ipynb` | Linear Regression and Feature Engineering |
-| `PS4.ipynb` | Neural Networks Implementation |
-| `PS5.ipynb` | Regularization and Cross-Validation |
-| `PS6.ipynb` | Deep Learning with PyTorch |
-| `PS7.ipynb` | Fairness, Ethics, and Real-World ML Applications |
+| `PS4.ipynb` | K-nearest Neighbors |
+| `PS5.ipynb` | Trees, Forests, and Fairness in Machine Learning |
+| `PS6.ipynb` | Neural Networks |
+| `PS7.ipynb` | Embeddings, Transformers, and LLMs |
 
 
 
